@@ -1,4 +1,3 @@
-
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FormatStrFormatter
 from pathlib import Path
