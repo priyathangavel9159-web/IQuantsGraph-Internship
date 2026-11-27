@@ -1,0 +1,30 @@
+===== OFFICE COMMUTE CALCULATOR =====
+Enter your name: riya
+Enter available card balance: 1000
+Enter available wallet cash: 500
+Enter cost of one meal: 100
+Enter one-way travel cost: 50
+Enter number of working days: 5
+Enter start date (dd/mm/yyyy): 05/11/2026
+
+========== COMMUTE SUMMARY ==========
+Name: riya
+Working days: 5
+
+Daily Costs:
+Daily travel cost: Rs. 50.00
+Daily meal cost: Rs. 100.00
+
+Total Costs:
+Total travel cost: Rs. 250.00
+Total meal cost: Rs. 500.00
+
+Remaining Balances:
+Card balance: Rs. 750.00
+Wallet balance: Rs. 0.00
+Card balance is sufficient.
+Wallet cash is sufficient.
+
+Office Schedule:
+Start date: 05/11/2026
+End date: 09/11/2026
